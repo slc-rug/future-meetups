@@ -9,10 +9,10 @@ This is a working list of topics to be presented in future SLC R User Group Meet
 |05/10/2018|Databases|Julia Silge and Mark Nielsen|   |   |Venifi is potential location for this meetup|
 |06/??/2018| | | | | |
 
-To suggest future topics, create a new issue:
+To suggest future topics, create a new issue [here](https://github.com/slc-rug/future-meetups/issues) or click the link below:
 
 [New Issue](https://github.com/slc-rug/future-meetups/issues/new)
 
-To volunteer as presenter for a suggested topic, please comment on an "issue" that you are interested in presenting and someone will connect with you.
+To volunteer as presenter for a suggested topic, please comment on an [issue](https://github.com/slc-rug/future-meetups/issues) that you are interested in presenting and someone will connect with you.
 
 Thanks!
