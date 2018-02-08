@@ -13,9 +13,6 @@ To suggest future topics, create a new issue:
 
 [New Issue](https://github.com/slc-rug/future-meetups/issues/new)
 
-<a href="https://github.com/slc-rug/future-meetups/issues/new" style="-webkit-appearance: button; -moz-appearance: button; appearance: button; text-decoration: none; color: initial;">Click Me!</a>
-
-
 To volunteer as presenter for a suggested topic, please comment on an "issue" that you are interested in presenting and someone will connect with you.
 
 Thanks!
