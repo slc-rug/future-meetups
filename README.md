@@ -3,9 +3,11 @@ This is a working list of topics to be presented in future SLC R User Group Meet
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|
 |---|---|---|---|---|---|
+|12/07/2017|Profiling and debugging your R code|Andrew Redd|Neumont|Yes|   |
+|01/1/2018|Branding and automating your work with R Markdown|Daniel Hadley|Neumont|Yes|[GitHub repo](https://github.com/Sorenson-Impact/rmarkdown-branding-talk)|
 |02/08/2018|Power through simulation|Greg Snow|IHC KBT|Yes|[GitHub repo](https://github.com/slc-rug/2018-02-power-simulation)|
 |03/08/2018|Bridging the statistics gap with jamovi and jmv|Barton Poulson|Neumont|Yes|   |
-|04/05/2018|Exploratory data analysis with tidyverse|Mike Leevy|   |   |Looking into IHC location near IMC, date may change|
+|04/05/2018|Exploratory data analysis with tidyverse|Mike Levy|   |   |Looking into IHC location near IMC, date may change|
 |05/10/2018|Databases|Julia Silge and Mark Nielsen|   |   |Venifi is potential location for this meetup|
 |06/??/2018| | | | | |
 
