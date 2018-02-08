@@ -13,6 +13,8 @@ To suggest future topics, create a new issue [here](https://github.com/slc-rug/f
 
 [New Issue](https://github.com/slc-rug/future-meetups/issues/new)
 
+You can upvote topics that you would be interested in learning about.
+
 To volunteer as presenter for a suggested topic, please comment on an [issue](https://github.com/slc-rug/future-meetups/issues) that you are interested in presenting and someone will connect with you.
 
 Thanks!
