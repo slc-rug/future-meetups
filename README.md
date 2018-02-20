@@ -17,7 +17,7 @@ Thanks!
 |---|---|---|---|---|---|
 |06/??/2018| | | | | |
 |05/10/2018|Databases|Julia Silge and Mark Nielsen|   |   |Venifi is potential location for this meetup|
-|04/05/2018|Exploratory data analysis with tidyverse|Mike Levy|Doty Education Center, West Auditorium, Intermountain Medical Center|   |   |
+|04/05/2018|Exploratory data analysis with tidyverse|Mike Levy|Doty Education Center, West Auditorium, Intermountain Medical Center|Yes|   |
 |03/08/2018|Bridging the statistics gap with jamovi and jmv|Barton Poulson|Neumont|Yes|   |
 |02/08/2018|Power through simulation|Greg Snow|IHC KBT|Yes|[GitHub repo](https://github.com/slc-rug/2018-02-power-simulation)|
 |01/11/2018|Branding and automating your work with R Markdown|Daniel Hadley|Neumont|Yes|[GitHub repo](https://github.com/Sorenson-Impact/rmarkdown-branding-talk)|
