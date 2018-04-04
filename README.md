@@ -16,7 +16,7 @@ Thanks!
 |Date|Topic|Presenter|Location|Confirmed|Notes|
 |---|---|---|---|---|---|
 |06/??/2018| | | | | |
-|05/10/2018|Databases|Julia Silge and Mark Nielsen|   |   |Venifi is potential location for this meetup|
+|05/10/2018|Databases|Julia Silge and Mark Nielsen|   |   |   |
 |04/05/2018|Exploratory data analysis with tidyverse|Mike Levy|Doty Education Center, West Auditorium, Intermountain Medical Center|Yes|   |
 |03/08/2018|Bridging the statistics gap with jamovi and jmv|Barton Poulson|Neumont|Yes|[jamovi](https://www.jamovi.org/), [datalab.cc](https://datalab.cc/) and [Data Charrette](https://datacharrette.org/)|
 |02/08/2018|Power through simulation|Greg Snow|IHC KBT|Yes|[GitHub repo](https://github.com/slc-rug/2018-02-power-simulation)|
