@@ -17,7 +17,7 @@ Thanks!
 |---|---|---|---|---|---|
 |07/--/2018| | | | | |
 |06/07/2018|Designing effective data visualizations|Miriah Meyer|IHC Key Bank Tower| | |
-|05/10/2018|Interfacing with databases from R|Julia Silge and Mark Nielsen|   |   |   |
+|05/10/2018|Interfacing with databases from R|Julia Silge and Mark Nielsen|Neumont| | |
 |04/05/2018|Exploratory data analysis with tidyverse|Mike Levy|Doty Education Center, West Auditorium, Intermountain Medical Center|Yes|[GitHub repo](https://github.com/michaellevy/tidyverse-explore)|
 |03/08/2018|Bridging the statistics gap with jamovi and jmv|Barton Poulson|Neumont|Yes|[jamovi](https://www.jamovi.org/), [datalab.cc](https://datalab.cc/) and [Data Charrette](https://datacharrette.org/)|
 |02/08/2018|Power through simulation|Greg Snow|IHC Key Bank Tower|Yes|[GitHub repo](https://github.com/slc-rug/2018-02-power-simulation)|
