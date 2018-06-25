@@ -15,7 +15,7 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|
 |---|---|---|---|---|---|
-|09/13/2018|Intro to Bayesian Analysis|Greg Snow|IHC Key Bank Tower| | |
+|09/06/2018|Intro to Bayesian Analysis|Greg Snow|IHC Key Bank Tower| | |
 |08/09/2018|Building and deploying robust APIs in R using plumber|James Blair|Neumont| | |
 |07/11/2018|Introduction to Data Visualization with R|Andrew Heiss|IHC Key Bank Tower|Yes| |
 |06/07/2018|Designing effective data visualizations|Miriah Meyer|IHC Key Bank Tower|Yes|[Slides](https://www.dropbox.com/s/vhwdqj2uz5qjqrv/SLC-RUG18.pdf?dl=0)|
