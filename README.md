@@ -16,8 +16,8 @@ Thanks!
 |Date|Topic|Presenter|Location|Confirmed|Notes|
 |---|---|---|---|---|---|
 |09/13/2018|Intro to Bayesian Analysis|Greg Snow|IHC Key Bank Tower| | |
-|08/09/2018|TBD|James Blair|TBD| | |
-|07/11/2018| | |IHC Key Bank Tower| | |
+|08/09/2018|Building and deploying robust APIs in R using plumber|James Blair|Neumont| | |
+|07/11/2018|Introduction to Data Visualization with R|Andrew Heiss|IHC Key Bank Tower|Yes| |
 |06/07/2018|Designing effective data visualizations|Miriah Meyer|IHC Key Bank Tower|Yes|[Slides](https://www.dropbox.com/s/vhwdqj2uz5qjqrv/SLC-RUG18.pdf?dl=0)|
 |05/10/2018|Interfacing with databases from R|Julia Silge and Mark Nielsen|Neumont|Yes|[GitHub repo](https://github.com/slc-rug/2018-05-databases) |
 |04/05/2018|Exploratory data analysis with tidyverse|Mike Levy|Doty Education Center, West Auditorium, Intermountain Medical Center|Yes|[GitHub repo](https://github.com/michaellevy/tidyverse-explore)|
