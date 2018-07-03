@@ -15,6 +15,7 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|
 |---|---|---|---|---|---|
+|10/--/2018|RStan|Sean Raleigh| | | |
 |10/--/2018|Bayesian Additive Regression Trees|Nathan Barton| | | |
 |09/06/2018|Intro to Bayesian Analysis|Greg Snow|IHC Key Bank Tower| | |
 |08/09/2018|Building and deploying robust APIs in R using plumber|James Blair|Neumont| | |
