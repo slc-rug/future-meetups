@@ -16,7 +16,7 @@ Thanks!
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
 |11/--/2018|Stan and RStan|Sean Raleigh| | | | |
-|10/04/2018|Bayesian Additive Regression Trees|Nathan Barton|IHC Key Bank Tower| | | |
+|10/04/2018|Bayesian Additive Regression Trees|Nathan Barton|IHC Key Bank Tower|Yes| | |
 |09/06/2018|Intro to Bayesian Analysis|Greg Snow|IHC Key Bank Tower|Yes|[GitHub repo](https://github.com/slc-rug/2018-09-intro-to-bayesian)|[YouTube](https://www.youtube.com/watch?v=9sQUOed7yug)|
 |08/09/2018|Building and deploying robust APIs in R using plumber|James Blair|Neumont|Yes|[GitHub repo](https://github.com/blairj09/slc-rug-plumber)|[YouTube](https://www.youtube.com/watch?v=pCXYzN0HbwA)|
 |07/11/2018|Introduction to Data Visualization with R|Andrew Heiss|IHC Key Bank Tower|Yes|[Link for code and resources](https://talks.andrewheiss.com/utah-rug-dataviz/)|[YouTube](https://www.youtube.com/watch?v=BsoHElr7HpA)|
