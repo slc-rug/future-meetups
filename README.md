@@ -15,8 +15,10 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
-|11/--/2018|Stan and RStan|Sean Raleigh| | | | |
-|10/04/2018|Bayesian Additive Regression Trees|Nathan Barton|IHC Key Bank Tower|Yes| | |
+|01/10/2019|Community Lightning Talks|R Users Group Members|IHC Key Bank Tower| | | |
+|12/--/2018|No meetup. Happy Holidays!| | | | | |
+|11/14/2018|Stan and RStan|Sean Raleigh|Neumont| | | |
+|10/04/2018|Bayesian Additive Regression Trees|Nathan Barton|IHC Key Bank Tower|Yes|[bartMachine Documentation](https://cran.r-project.org/web/packages/bartMachine/vignettes/bartMachine.pdf)|[YouTube](https://www.youtube.com/watch?v=4NIYZrL2y5g)|
 |09/06/2018|Intro to Bayesian Analysis|Greg Snow|IHC Key Bank Tower|Yes|[GitHub repo](https://github.com/slc-rug/2018-09-intro-to-bayesian)|[YouTube](https://www.youtube.com/watch?v=9sQUOed7yug)|
 |08/09/2018|Building and deploying robust APIs in R using plumber|James Blair|Neumont|Yes|[GitHub repo](https://github.com/blairj09/slc-rug-plumber)|[YouTube](https://www.youtube.com/watch?v=pCXYzN0HbwA)|
 |07/11/2018|Introduction to Data Visualization with R|Andrew Heiss|IHC Key Bank Tower|Yes|[Link for code and resources](https://talks.andrewheiss.com/utah-rug-dataviz/)|[YouTube](https://www.youtube.com/watch?v=BsoHElr7HpA)|
