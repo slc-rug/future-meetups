@@ -17,7 +17,7 @@ Thanks!
 |---|---|---|---|---|---|---|
 |01/10/2019|Community Lightning Talks|R Users Group Members|IHC Key Bank Tower| | | |
 |12/--/2018|No meetup. Happy Holidays!| | | | | |
-|11/14/2018|Stan and RStan|Sean Raleigh|Neumont| | | |
+|11/14/2018|Stan and RStan|Sean Raleigh|Neumont|Yes|[GitHub repo](https://github.com/VectorPosse/Bayesian-Modeling-with-R-and-Stan)|[YouTube](https://www.youtube.com/watch?v=6gxjR40dK68&)|
 |10/04/2018|Bayesian Additive Regression Trees|Nathan Barton|IHC Key Bank Tower|Yes|[bartMachine Documentation](https://cran.r-project.org/web/packages/bartMachine/vignettes/bartMachine.pdf)|[YouTube](https://www.youtube.com/watch?v=4NIYZrL2y5g)|
 |09/06/2018|Intro to Bayesian Analysis|Greg Snow|IHC Key Bank Tower|Yes|[GitHub repo](https://github.com/slc-rug/2018-09-intro-to-bayesian)|[YouTube](https://www.youtube.com/watch?v=9sQUOed7yug)|
 |08/09/2018|Building and deploying robust APIs in R using plumber|James Blair|Neumont|Yes|[GitHub repo](https://github.com/blairj09/slc-rug-plumber)|[YouTube](https://www.youtube.com/watch?v=pCXYzN0HbwA)|
