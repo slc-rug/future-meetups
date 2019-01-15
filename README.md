@@ -15,6 +15,10 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
+|05/--/2019|||| | | |
+|04/--/2019|Using decision trees to model state budget stress testing|Thomas Young|TBD| | | |
+|03/21/2019||Andrew Redd|TBD - UofU?| | | |
+|02/06/2019|Spatial Statistics|Candace Berrett|TBD| | | |
 |01/10/2019|Community Lightning Talks|R Users Group Members|IHC Key Bank Tower| | | |
 |12/--/2018|No meetup. Happy Holidays!| | | | | |
 |11/14/2018|Stan and RStan|Sean Raleigh|Neumont|Yes|[GitHub repo](https://github.com/VectorPosse/Bayesian-Modeling-with-R-and-Stan)|[YouTube](https://www.youtube.com/watch?v=6gxjR40dK68&)|
