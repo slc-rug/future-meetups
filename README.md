@@ -18,8 +18,8 @@ Thanks!
 |05/--/2019|||| | | |
 |04/--/2019|Using decision trees to model state budget stress testing|Thomas Young|TBD| | | |
 |03/21/2019||Andrew Redd|TBD - UofU?| | | |
-|02/06/2019|Spatial Statistics|Candace Berrett|TBD| | | |
-|01/10/2019|Community Lightning Talks|R Users Group Members|IHC Key Bank Tower| | | |
+|02/06/2019|Spatial Statistics|Candace Berrett|IHC Key Bank Tower|Yes| | |
+|01/10/2019|Community Lightning Talks|R Users Group Members|IHC Key Bank Tower|Yes| |[YouTube](https://www.youtube.com/watch?v=qJNlOEk3tgs&)|
 |12/--/2018|No meetup. Happy Holidays!| | | | | |
 |11/14/2018|Stan and RStan|Sean Raleigh|Neumont|Yes|[GitHub repo](https://github.com/VectorPosse/Bayesian-Modeling-with-R-and-Stan)|[YouTube](https://www.youtube.com/watch?v=6gxjR40dK68&)|
 |10/04/2018|Bayesian Additive Regression Trees|Nathan Barton|IHC Key Bank Tower|Yes|[bartMachine Documentation](https://cran.r-project.org/web/packages/bartMachine/vignettes/bartMachine.pdf)|[YouTube](https://www.youtube.com/watch?v=4NIYZrL2y5g)|
