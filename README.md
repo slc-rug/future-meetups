@@ -15,8 +15,9 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
+|06/05/2019|Tidyverse Part 2|Daniel Bride|SelectHealth| | | |
 |05/--/2019|||| | | |
-|04/17/2019|Using decision trees to model state budget stress testing|Thomas Young|Neumont|Yes| | |
+|04/17/2019|Modeling Risk in the State Budget using R|Thomas Young|Neumont|Yes| | |
 |03/21/2019||Andrew Redd|TBD - UofU?| | | |
 |02/06/2019|Spatial Statistics|Candace Berrett|IHC Key Bank Tower|Yes| | |
 |01/10/2019|Community Lightning Talks|R Users Group Members|IHC Key Bank Tower|Yes| |[YouTube](https://www.youtube.com/watch?v=qJNlOEk3tgs&)|
