@@ -15,12 +15,18 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
+|08/--/2019|StackOverflow Survey|Julia Silge|TBD| | | |
+|07/--/2019|No meetup. Happy 4th!| | | | | |
 |06/05/2019|Tidyverse Part 2|Daniel Bride|SelectHealth| | | |
-|05/--/2019|||| | | |
+|05/08/2019|Consulting for Introverts|Matt Harrison|Neumont| | | |
 |04/17/2019|Modeling Risk in the State Budget using R|Thomas Young|Neumont|Yes| | |
-|03/21/2019||Andrew Redd|TBD - UofU?| | | |
-|02/11/2019|Spatial Statistics|Candace Berrett|IHC Key Bank Tower|Yes| | |
-|01/10/2019|Community Lightning Talks|R Users Group Members|IHC Key Bank Tower|Yes| |[YouTube](https://www.youtube.com/watch?v=qJNlOEk3tgs&)|
+|03/21/2019||Andrew Redd|UofU Research Park|Yes| |[YouTube](https://www.youtube.com/watch?v=HT8IJ0vsEbg)|
+|02/11/2019|Spatial Statistics|Candace Berrett|IHC Key Bank Tower|Yes| |[YouTube](https://www.youtube.com/watch?v=fvgLH5tMig8)|
+|01/10/2019|Community Lightning Talks|R Users Group Members|IHC Key Bank Tower|Yes|[Using R in Excel (Jacob Nelson)](https://docs.google.com/presentation/d/1KOZ8lebtNBs6zpoNFp5j8ytGm0Z2SBpOZpra1FdXXLY/edit#slide=id.p)|[YouTube](https://www.youtube.com/watch?v=qJNlOEk3tgs&)|
+||||||[Climate Research in R (Andrew Wolfe)](https://roctober92.github.io/portfolio/topics/ruser/index.html#/section)||
+||||||[Interpretable machine learning with lime (Mark Nielsen)](https://docs.google.com/presentation/d/1Sj3cKt4LkpsqOxMzXXF5-7FyQ6MfdeuMUjfqlT-T1Hk/edit#slide=id.p)||
+||||||[Let users model! Saving model objects to database (Mei Todaka)](https://docs.google.com/presentation/d/1IOPX2rhdMjGrM4mdmavqnK661Cf6Ya4HjANBjQOqCjQ/edit#slide=id.p1)||
+||||||["My First Stan Model": Do Bay Leaves Do Any Good? (Abby Kaplan)](https://kaplanas.github.io/Bay-Leaf-Experiment/rug_lightning_talk.html#1)||
 |12/--/2018|No meetup. Happy Holidays!| | | | | |
 |11/14/2018|Stan and RStan|Sean Raleigh|Neumont|Yes|[GitHub repo](https://github.com/VectorPosse/Bayesian-Modeling-with-R-and-Stan)|[YouTube](https://www.youtube.com/watch?v=6gxjR40dK68&)|
 |10/04/2018|Bayesian Additive Regression Trees|Nathan Barton|IHC Key Bank Tower|Yes|[bartMachine Documentation](https://cran.r-project.org/web/packages/bartMachine/vignettes/bartMachine.pdf)|[YouTube](https://www.youtube.com/watch?v=4NIYZrL2y5g)|
