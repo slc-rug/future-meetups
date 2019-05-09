@@ -18,7 +18,7 @@ Thanks!
 |08/--/2019|StackOverflow Survey|Julia Silge|TBD| | | |
 |07/--/2019|No meetup. Happy 4th!| | | | | |
 |06/05/2019|Tidyverse Part 2|Daniel Bride|SelectHealth| | | |
-|05/08/2019|Consulting for Introverts|Matt Harrison|Neumont| | | |
+|05/08/2019|Consulting for Introverts|Matt Harrison|Neumont|Yes |[Slides](https://www.slideshare.net/MattHarrison4/technical-consulting-for-introverted-developers-python-r-data-science-java) | |
 |04/17/2019|Modeling Risk in the State Budget using R|Thomas Young|Neumont|Yes| | |
 |03/21/2019|Developments in R Documentation|Andrew Redd|UofU Research Park|Yes| |[YouTube](https://www.youtube.com/watch?v=HT8IJ0vsEbg)|
 |02/11/2019|Spatial Statistics|Candace Berrett|IHC Key Bank Tower|Yes| |[YouTube](https://www.youtube.com/watch?v=fvgLH5tMig8)|
