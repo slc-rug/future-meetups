@@ -18,7 +18,7 @@ Thanks!
 |09/--/2019|Classes with R6|Greg Snow|TBA|Yes| | |
 |08/22/2019|Stack Overflow Survey|Julia Silge|Neumont|Yes| | |
 |07/--/2019|No meetup. Happy 4th!| | | | | |
-|06/05/2019|Tidyverse Part 2|Daniel Bride|SelectHealth|Yes| | |
+|06/05/2019|Tidyverse Part 2|Daniel Bride|SelectHealth|Yes| |[GitHub Repo](https://github.com/danielbride/slc-rug-tidyverse-ptII)|
 |05/08/2019|Consulting for Introverts|Matt Harrison|Neumont|Yes |[Slides](https://www.slideshare.net/MattHarrison4/technical-consulting-for-introverted-developers-python-r-data-science-java) | |
 |04/17/2019|Modeling Risk in the State Budget using R|Thomas Young|Neumont|Yes| | |
 |03/21/2019|Developments in R Documentation|Andrew Redd|UofU Research Park|Yes| |[YouTube](https://www.youtube.com/watch?v=HT8IJ0vsEbg)|
