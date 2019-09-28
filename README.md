@@ -18,7 +18,7 @@ Thanks!
 |12/--/2019|No meetup. Happy Holidays!| | | | | |
 |11/07/2019|Using R for geospatial applications at the USDA|Phil Roberts|Neumont| | | |
 |10/--/2019|No meetup. Happy Halloween!| | | | | |
-|09/26/2019|Object-oriented programming in R with R6|Greg Snow|SelectHealth|Yes|[GitHub Repo](https://github.com/slc-rug/2019-09-26-Classes-with-R6)|[YouTube]()|
+|09/26/2019|Object-oriented programming in R with R6|Greg Snow|SelectHealth|Yes|[GitHub Repo](https://github.com/slc-rug/2019-09-26-Classes-with-R6)|[YouTube](https://youtu.be/C-OE7Dkx_Fo)|
 |08/22/2019|Stack Overflow Survey|Julia Silge|Neumont|Yes| |[YouTube](https://www.youtube.com/watch?v=3M07sc62j7o)|
 |07/--/2019|No meetup. Happy 4th!| | | | | |
 |06/05/2019|Tidyverse Part 2|Daniel Bride|SelectHealth|Yes|[GitHub Repo](https://github.com/danielbride/slc-rug-tidyverse-ptII)| |
