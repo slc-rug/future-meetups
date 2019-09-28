@@ -15,8 +15,11 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
-|09/--/2019|Classes with R6|Greg Snow|TBA|Yes| | |
-|08/22/2019|Stack Overflow Survey|Julia Silge|Neumont|Yes| | |
+|12/--/2019|No meetup. Happy Holidays!| | | | | |
+|11/07/2019|Using R for geospatial applications at the USDA|Phil Roberts|Neumont| | | |
+|10/--/2019|No meetup. Happy Halloween!| | | | | |
+|09/26/2019|Object-oriented programming in R with R6|Greg Snow|SelectHealth|Yes|[GitHub Repo](https://github.com/slc-rug/2019-09-26-Classes-with-R6)|[YouTube]()|
+|08/22/2019|Stack Overflow Survey|Julia Silge|Neumont|Yes| |[YouTube](https://www.youtube.com/watch?v=3M07sc62j7o)|
 |07/--/2019|No meetup. Happy 4th!| | | | | |
 |06/05/2019|Tidyverse Part 2|Daniel Bride|SelectHealth|Yes|[GitHub Repo](https://github.com/danielbride/slc-rug-tidyverse-ptII)| |
 |05/08/2019|Consulting for Introverts|Matt Harrison|Neumont|Yes |[Slides](https://www.slideshare.net/MattHarrison4/technical-consulting-for-introverted-developers-python-r-data-science-java) | |
