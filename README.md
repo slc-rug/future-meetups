@@ -15,7 +15,7 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
-|05/28/2020|Regression When Your Data Isn't Well Behaved|Abby Kaplan|Online|Yes|||
+|05/28/2020|Regression When Your Data Isn't Well Behaved|Abby Kaplan|Online|Yes|[GitHub Repo](https://github.com/kaplanas/nonstandard-regression)||
 |04/21/2020|RStudio Tips for More Efficient R Coding|Greg Snow|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2020-04-rstudio-tips)||
 |03/--/2020|No meetup.| | | | | |
 |02/27/2020|Efficiency and Parallel Programming in R|Andrew Redd|UofU Research Park|Yes| ||
