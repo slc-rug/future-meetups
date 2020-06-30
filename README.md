@@ -20,7 +20,7 @@ Thanks!
 |05/28/2020|Regression When Your Data Isn't Well Behaved|Abby Kaplan|Online|Yes|[GitHub Repo](https://github.com/kaplanas/nonstandard-regression)|[YouTube](https://www.youtube.com/watch?v=9c45354sRT0)|
 |04/21/2020|RStudio Tips for More Efficient R Coding|Greg Snow|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2020-04-rstudio-tips)|[YouTube](https://www.youtube.com/watch?v=3XSlKhqdzmg)|
 |03/--/2020|No meetup.| | | | | |
-|02/27/2020|Efficiency and Parallel Programming in R|Andrew Redd|UofU Research Park|Yes| ||
+|02/27/2020|Efficiency and Parallel Programming in R|Andrew Redd|UofU Research Park|Yes|[GitHub Repo](https://github.com/halpo/RUG-FEB2020)||
 |01/16/2020|Community Lightning Talks|R Users Group Members|Neumont|Yes| |[YouTube](https://www.youtube.com/watch?v=iz1H0ShUt24)|
 |12/--/2019|No meetup. Happy Holidays!| | | | | |
 |11/07/2019|Using R for geospatial applications at the USDA|Phil Roberts|Neumont| | |[YouTube](https://www.youtube.com/watch?v=_8PaFK3Im1k)|
