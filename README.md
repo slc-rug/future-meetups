@@ -16,7 +16,7 @@ Thanks!
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
 |07/--/2020|No meetup. Enjoy your summer!| | | | | |
-|06/30/2020|Big Data in R|James Blair|Online|Yes| | |
+|06/30/2020|Big Data in R|James Blair|Online|Yes|[GitHub Repo](https://github.com/blairj09-talks/big-data/tree/2020.06.30)| |
 |05/28/2020|Regression When Your Data Isn't Well Behaved|Abby Kaplan|Online|Yes|[GitHub Repo](https://github.com/kaplanas/nonstandard-regression)|[YouTube](https://www.youtube.com/watch?v=9c45354sRT0)|
 |04/21/2020|RStudio Tips for More Efficient R Coding|Greg Snow|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2020-04-rstudio-tips)|[YouTube](https://www.youtube.com/watch?v=3XSlKhqdzmg)|
 |03/--/2020|No meetup.| | | | | |
