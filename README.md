@@ -15,8 +15,15 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
+|02/09/2021|Community Lightning Talks|SLC R User Group Community|Online|Yes|Sign up [here](https://forms.gle/eAZrpFwZzsXqnaqj8).| |
+|01/--/2021|No meetup. Happy Holidays!| | | | | |
+|12/01/2020|Looking at stop words: why you shouldn't blindly trust model defaults|Emil Hvitfeldt Hansen|Online|Yes| | |
+|11/18/2020|Combining R & Python with reticulate|Gabriella Smith|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2020-11-18-reticulate)| |
+|10/21/2020|Data visualization for machine learning practitioners|Julia Silge|Online|Yes| | |
+|09/--/2020|No meetup.| | | | | |
+|08/19/2020|Productionizing R code with Docker at Intermountain Healthcare|Mark Nielsen|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2020-08-19-productionizing-r-with-docker)|[YouTube](https://www.youtube.com/watch?v=sm5NQZ86OTc&t=39s)|
 |07/--/2020|No meetup. Enjoy your summer!| | | | | |
-|06/30/2020|Big Data in R|James Blair|Online|Yes|[GitHub Repo](https://github.com/blairj09-talks/big-data/tree/2020.06.30)| |
+|06/30/2020|Big Data in R|James Blair|Online|Yes|[GitHub Repo](https://github.com/blairj09-talks/big-data/tree/2020.06.30)|[YouTube](https://www.youtube.com/watch?v=8gksrZUtxk0)|
 |05/28/2020|Regression When Your Data Isn't Well Behaved|Abby Kaplan|Online|Yes|[GitHub Repo](https://github.com/kaplanas/nonstandard-regression)|[YouTube](https://www.youtube.com/watch?v=9c45354sRT0)|
 |04/21/2020|RStudio Tips for More Efficient R Coding|Greg Snow|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2020-04-rstudio-tips)|[YouTube](https://www.youtube.com/watch?v=3XSlKhqdzmg)|
 |03/--/2020|No meetup.| | | | | |
