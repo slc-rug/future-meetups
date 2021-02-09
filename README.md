@@ -15,6 +15,9 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
+|05/05/2021|Data Science Portfolios 101|Dr. Rachael Tatman|Online|Yes| | |
+|04/07/2021|Stacked Ensemble Modeling with Tidy Data Principles|Simon Couch|Online|Yes| | |
+|03/10/2021|The Magical Code Menu in RStudio|Kenneth Fairchild|Online|Yes| | |
 |02/09/2021|Community Lightning Talks|SLC R User Group Community|Online|Yes|Sign up [here](https://forms.gle/eAZrpFwZzsXqnaqj8).| |
 |01/--/2021|No meetup. Happy Holidays!| | | | | |
 |12/01/2020|Looking at stop words: why you shouldn't blindly trust model defaults|Emil Hvitfeldt Hansen|Online|Yes| | |
