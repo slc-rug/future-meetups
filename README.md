@@ -17,8 +17,8 @@ Thanks!
 |---|---|---|---|---|---|---|
 |05/05/2021|Data Science Portfolios 101|Dr. Rachael Tatman|Online|Yes| | |
 |04/07/2021|Stacked Ensemble Modeling with Tidy Data Principles|Simon Couch|Online|Yes| | |
-|03/10/2021|The Magical Code Menu in RStudio|Kenneth Fairchild|Online|Yes| | |
-|02/09/2021|Community Lightning Talks|SLC R User Group Community|Online|Yes|Sign up [here](https://forms.gle/eAZrpFwZzsXqnaqj8).| |
+|03/10/2021|The Magical Code Menu in RStudio|Kenneth Fairchild|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2021-03-10-magical-code-menu)| |
+|02/09/2021|Community Lightning Talks|SLC R User Group Community|Online|Yes| |[YouTube](https://www.youtube.com/watch?v=gZ1NIbw_cZU)|
 |01/--/2021|No meetup. Happy Holidays!| | | | | |
 |12/01/2020|Looking at stop words: why you shouldn't blindly trust model defaults|Emil Hvitfeldt Hansen|Online|Yes| |[YouTube](https://www.youtube.com/watch?v=Q2ilhRqp1Vo)|
 |11/18/2020|Combining R & Python with reticulate|Gabriella Smith|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2020-11-18-reticulate)|[YouTube](https://www.youtube.com/watch?v=ooXb27CHuR4)|
