@@ -15,8 +15,9 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
+|08/04/2021|Create Infographics with R|Jonathan Zadra|Online|Yes| | |
 |07/--/2021|No meetup. Happy Summer!| | | | | |
-|06/09/2021|Create Infographics with R|Jonathan Zadra|Online|Yes| | |
+|06/--/2021|Meetup rescheduled. | | | | | |
 |05/05/2021|Data Science Portfolios 101|Dr. Rachael Tatman|Online|Yes| | |
 |04/07/2021|Stacked Ensemble Modeling with Tidy Data Principles|Simon Couch|Online|Yes|[GitHub Repo](https://github.com/simonpcouch/slc-rug-21)| |
 |03/10/2021|The Magical Code Menu in RStudio|Kenneth Fairchild|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2021-03-10-magical-code-menu)|[YouTube](https://youtu.be/N61j6bEMUTY)|
