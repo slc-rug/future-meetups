@@ -21,7 +21,7 @@ Thanks!
 |07/--/2021|No meetup. Happy Summer!| | | | | |
 |06/--/2021|Meetup rescheduled. | | | | | |
 |05/05/2021|Data Science Portfolios 101|Dr. Rachael Tatman|Online|Yes| |[YouTube](https://youtu.be/lHMmQaS8_ro)|
-|04/07/2021|Stacked Ensemble Modeling with Tidy Data Principles|Simon Couch|Online|Yes|[GitHub Repo](https://github.com/simonpcouch/slc-rug-21)| |
+|04/07/2021|Stacked Ensemble Modeling with Tidy Data Principles|Simon Couch|Online|Yes|[GitHub Repo](https://github.com/simonpcouch/slc-rug-21)|[YouTube](https://youtu.be/HZXZxvdpDOg)|
 |03/10/2021|The Magical Code Menu in RStudio|Kenneth Fairchild|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2021-03-10-magical-code-menu)|[YouTube](https://youtu.be/N61j6bEMUTY)|
 |02/09/2021|Community Lightning Talks|SLC R User Group Community|Online|Yes| |[YouTube](https://www.youtube.com/watch?v=gZ1NIbw_cZU)|
 |01/--/2021|No meetup. Happy Holidays!| | | | | |
