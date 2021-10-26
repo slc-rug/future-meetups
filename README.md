@@ -15,8 +15,8 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
-|09/22/2021|A UseR’s Introduction to Machine Learning in AWS|Emily Robinson|Online|Yes| | |
-|09/22/2021|R packages for using Stan|Greg Snow|Online|Yes| | |
+|10/26/2021|A UseR’s Introduction to Machine Learning in AWS|Emily Robinson|Online|Yes|[GitHub Repo](https://github.com/robinsones/weratedogs)| |
+|09/22/2021|R packages for using Stan|Greg Snow|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2021-09-22-R-Packages-for-Stan)|[YouTube](https://www.youtube.com/watch?v=l9IQ5ypVAk0)|
 |08/--/2021|No meetup.|||| | |
 |07/--/2021|No meetup. Happy Summer!| | | | | |
 |06/--/2021|Meetup rescheduled. | | | | | |
