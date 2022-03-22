@@ -15,6 +15,7 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
+|03/22/2022|Web scraping in R with the tidyverse, rvest, and RSelenium|Joshua McCrain|Online|Yes|[Code](https://joshuamccrain.com/scraping_SLCRUG.R)|
 |10/26/2021|A UseR’s Introduction to Machine Learning in AWS|Emily Robinson|Online|Yes|[Google Slides](https://docs.google.com/presentation/d/1po0xPOujqzrfFZgYrMEhWcY68nVagZQk/edit?usp=sharing&ouid=109190959859378036463&rtpof=true&sd=true), [GitHub Repo](https://github.com/robinsones/weratedogs)|[YouTube](https://youtu.be/EZXJmFg4MIg)|
 |09/22/2021|R packages for using Stan|Greg Snow|Online|Yes|[GitHub Repo](https://github.com/slc-rug/2021-09-22-R-Packages-for-Stan)|[YouTube](https://www.youtube.com/watch?v=l9IQ5ypVAk0)|
 |08/--/2021|No meetup.|||| | |
