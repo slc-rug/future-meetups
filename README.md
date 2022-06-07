@@ -15,6 +15,7 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
+|06/07/2022|Visualize your transformations during data munging|Jeremy Allen|Online|Yes|[Github Repo](https://github.com/jeremy-allen/visual-eyes)|[YouTube](https://youtu.be/IMWTuR1VdYU)|
 |05/11/2022|Rfviz: An interactive vizualization package for Random Forests|Chris Kuchar|Online|Yes|[R Package Github](https://github.com/cran/rfviz)|[YouTube](https://youtu.be/-AuXnBmaC2w)|
 |04/06/2022|Bayes Rules!|Alicia Johnson|Online|Yes|[Book](https://www.bayesrulesbook.com)|[YouTube](https://youtu.be/2VbGoSyeHf4)|
 |03/22/2022|Web scraping in R with the tidyverse, rvest, and RSelenium|Joshua McCrain|Online|Yes|[Code](https://joshuamccrain.com/scraping_SLCRUG.R)|[YouTube](https://youtu.be/meapZAH7Jdc)|
