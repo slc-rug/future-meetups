@@ -15,7 +15,7 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
-|10/20/2022|Networking and social gathering| | | | | |
+|10/20/2022|Networking and social gathering| |Spitz in Holladay| | | |
 |09/20/2022|Visualize logistic regression results for your non-technical audience|Abby Kaplan & Keiko Cawley|Online|Yes|[Github Repo](https://github.com/keikcaw/visualizing-logistic-regression)|[YouTube](https://youtu.be/svHT7H1ZykA)|
 |08/16/2022|Anatomy of generative art|Ijeamaka Anyene Fumagalli|Online|Yes|[Github Repo](https://github.com/Ijeamakaanyene/anatomy_of_generative_art)|[YouTube](https://youtu.be/EUntM52IeCQ)|
 |07/--/2022|No meetup. Happy Summer!| | | | | |
