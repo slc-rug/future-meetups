@@ -15,6 +15,10 @@ Thanks!
 
 |Date|Topic|Presenter|Location|Confirmed|Notes|Recording|
 |---|---|---|---|---|---|---|
+|10/20/2022|Networking and social gathering| | | | | |
+|09/20/2022|Visualize logistic regression results for your non-technical audience|Abby Kaplan & Keiko Cawley|Online|Yes|[Github Repo](https://github.com/keikcaw/visualizing-logistic-regression)|[YouTube](https://youtu.be/svHT7H1ZykA)|
+|08/16/2022|Anatomy of generative art|Ijeamaka Anyene Fumagalli|Online|Yes|[Github Repo](https://github.com/Ijeamakaanyene/anatomy_of_generative_art)|[YouTube](https://youtu.be/EUntM52IeCQ)|
+|07/--/2022|No meetup. Happy Summer!| | | | | |
 |06/07/2022|Visualize your transformations during data munging|Jeremy Allen|Online|Yes|[Github Repo](https://github.com/jeremy-allen/visual-eyes)|[YouTube](https://youtu.be/IMWTuR1VdYU)|
 |05/11/2022|Rfviz: An interactive vizualization package for Random Forests|Chris Kuchar|Online|Yes|[R Package Github](https://github.com/cran/rfviz)|[YouTube](https://youtu.be/-AuXnBmaC2w)|
 |04/06/2022|Bayes Rules!|Alicia Johnson|Online|Yes|[Book](https://www.bayesrulesbook.com)|[YouTube](https://youtu.be/2VbGoSyeHf4)|
